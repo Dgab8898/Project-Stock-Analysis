@@ -23,7 +23,7 @@ from string import punctuation
 from nltk.tokenize import word_tokenize
 ```
 
-#### **Twits Pre-processinhg**
+#### **Twits Pre-processing**
 
 Pre-process each of the twits in our dataset, collected by filtering on ticker symbols.\
 We performed text processing like removing punctuation and HTML tags and making everything lower-case.Then clean up by removing stop words and normalizing the text.\
