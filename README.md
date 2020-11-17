@@ -25,7 +25,7 @@ from nltk.tokenize import word_tokenize
 
 **Text Pre-processinhg**
 
-we used tekonize techniques to split the text, and the bag of words to counting the words, the term frequency to measure the occurance of the word or the terms in document.
+In this section we used tekonize techniques to split the text, and the bag of word for counting the words, the term frequency to measure the occurance of the word or the terms in document.
 
 **issues**
 
