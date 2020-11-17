@@ -23,11 +23,11 @@ from string import punctuation
 from nltk.tokenize import word_tokenize
 ```
 
-**Text Pre-processinhg**
-
-In this section we used tekonize techniques to split the text, and the bag of word for counting the words, the term frequency to measure the occurance of the word or the terms in the message.\
+**Twits Pre-processinhg**
 Pre-process each of the twits in our dataset, collected by filtering on ticker symbols.\
-For our first iteration we did very basic text processing like removing punctuation and HTML tags and making everything lower-case. We can clean things up further by removing stop words and normalizing the text.
+We performed text processing like removing punctuation and HTML tags and making everything lower-case.Then clean up by removing stop words and normalizing the text.\
+We used tekonize techniques to split the text, and the bag of word for counting the words, the term frequency to measure the occurance of the word or the terms in the message.\
+Further, updating vocabluary by removing filterd words, then balancing the classes to help our network learn appropriately.
 
 
 **issues**
