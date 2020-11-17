@@ -7,7 +7,7 @@ The datasets used in this project are raw JSON files for the twits text messages
 
 
 
-**Installation**
+### **Installation**
 ```
 import json
 import nltk
@@ -23,7 +23,8 @@ from string import punctuation
 from nltk.tokenize import word_tokenize
 ```
 
-**Twits Pre-processinhg**
+#### **Twits Pre-processinhg**
+
 Pre-process each of the twits in our dataset, collected by filtering on ticker symbols.\
 We performed text processing like removing punctuation and HTML tags and making everything lower-case.Then clean up by removing stop words and normalizing the text.\
 We used tekonize techniques to split the text, and the bag of word for counting the words, the term frequency to measure the occurance of the word or the terms in the message.\
