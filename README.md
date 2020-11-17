@@ -34,7 +34,7 @@ Further, updating vocabluary by removing filterd words, then balancing the class
 **Implement the text classifier**
 
 
-**Training and validation**
+###**Training and validation**
 We split our data set into traing and vaildation.\
 Then train our neural network
 
