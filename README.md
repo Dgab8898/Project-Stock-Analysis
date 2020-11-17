@@ -31,6 +31,17 @@ We used tekonize techniques to split the text, and the bag of word for counting 
 Further, updating vocabluary by removing filterd words, then balancing the classes to help our network learn appropriately.
 
 
+#### **Implement the text classifier**
+
+
+##### **Training and validation**
+We split our data set into traing and vaildation.\
+Then train our neural network
+
+###### **Prediction**
+
+
+
 **issues**
 
 
