@@ -6,7 +6,7 @@ The datasets used in this project are raw JSON files for the [GOOGL](https://sto
 
 
 **Installation**
-
+```
 import json
 import nltk
 import os
@@ -19,6 +19,7 @@ nltk.download('punkt')
 nltk.download('wordnet')
 from string import punctuation
 from nltk.tokenize import word_tokenize
+```
 
 
 **issues**
