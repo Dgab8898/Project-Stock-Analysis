@@ -19,16 +19,16 @@ nltk.download('wordnet')
 from string import punctuation
 from nltk.tokenize import word_tokenize
 
-#### **isssues**
+#### **issues**
 
 
-#### **Contributing**
-
-
-
-### **Licence**
+##### **Contributing**
 
 
 
+###### **Licence**
 
-###### **References:
+
+
+
+####### **References**:
