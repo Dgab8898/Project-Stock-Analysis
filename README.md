@@ -45,11 +45,11 @@ Then train our neural network.
 
 **Prediction**
 
-We trained the model, and we can make a predictions, we used this model to track the sentiments of various stocks by predicitng the comming twits
+We trained the model, and we can make a predictions, then we used this model to track the sentiments of various stocks by predicitng the comming twits
 
 **Testing**
 
-We used the prediction, and we apply it to stream of twits, to obtain the stock universe score stream.
+Finally e used the prediction, and we apply it to stream of twits, to obtain the stock universe score stream.
 
 
 **issues**
