@@ -34,13 +34,18 @@ Further, updating vocabluary by removing filterd words, then balancing the class
 **Implement the text classifier**
 
 
-**Training and validation**
+**Training**
+We build the generator to loop through our data, and pass our sequence as batches.
 
-We split our data set into traing and vaildation.\
-Then train our neural network
+**Training and validation**
+In this section We will split our data set into traing and vaildation.\
+Then train our neural network.
 
 **Prediction**
+We trained the model, and we can make a predictions, we used this model to track the sentiments of various stocks by predicitng the comming twits
 
+**Testing**
+We used the prediction, and we apply it to stream of twits, to obtain the stock universe score stream.
 
 
 **issues**
