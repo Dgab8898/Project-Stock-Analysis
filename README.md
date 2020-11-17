@@ -5,7 +5,7 @@ In this project, we will generate investing insight by applying sentiment analys
 The datasets used in this project are raw JSON files for the https://stocktwits.com/symbol/GOOGL (GOOGL) and https://stocktwits.com/symbol/AAPL (AAPL) stocks from stocktwits.com, a popular platform dedicated to investors and traders, entrepreneurs.
 
 
-###**Installation**
+### **Installation**
 import json
 import nltk
 import os
@@ -19,21 +19,14 @@ nltk.download('wordnet')
 from string import punctuation
 from nltk.tokenize import word_tokenize
 
-####**isssues**
+#### **isssues**
 
 
-####**Contributing**
-
-
-
-###**Licence**
+#### **Contributing**
 
 
 
-
-
-
-
+### **Licence**
 
 
 
