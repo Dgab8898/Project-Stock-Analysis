@@ -25,7 +25,10 @@ from nltk.tokenize import word_tokenize
 
 **Text Pre-processinhg**
 
-In this section we used tekonize techniques to split the text, and the bag of word for counting the words, the term frequency to measure the occurance of the word or the terms in document.
+In this section we used tekonize techniques to split the text, and the bag of word for counting the words, the term frequency to measure the occurance of the word or the terms in the message.\
+Pre-process each of the twits in our dataset, collected by filtering on ticker symbols.\
+For our first iteration we did very basic text processing like removing punctuation and HTML tags and making everything lower-case. We can clean things up further by removing stop words and normalizing the text.
+
 
 **issues**
 
