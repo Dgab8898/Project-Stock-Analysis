@@ -57,7 +57,8 @@ Finally e used the prediction, and we apply it to stream of twits, to obtain the
 
 **Contributing**
 
-
+For major changes, please open an issue. First discuss what you would like to change.
+please make sure to update tests as appropriate
 
 **Licence**
 
