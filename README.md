@@ -62,7 +62,7 @@ please make sure to update tests as appropriate
 
 ## **Licence**
 ```
-Copyright (C) 2004 David Gabriel
+Copyright (C) 2020 David Gabriel
 ```
 
 
