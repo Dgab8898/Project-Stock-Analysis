@@ -61,7 +61,7 @@ For major changes, please open an issue. First discuss what you would like to ch
 please make sure to update tests as appropriate
 
 **Licence**
-
+__copyright__ = "Copyright (C) 2004 David Gabriel"
 
 
 
