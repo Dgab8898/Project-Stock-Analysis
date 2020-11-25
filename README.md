@@ -23,7 +23,7 @@ from string import punctuation
 from nltk.tokenize import word_tokenize
 ```
 
-#### **Twits Pre-processing**
+## **Twits Pre-processing**
 
 Pre-process each of the twits in our dataset, collected by filtering on ticker symbols.\
 We performed text processing like removing punctuation and HTML tags and making everything lower-case.Then clean up by removing stop words and normalizing the text.\
@@ -31,37 +31,37 @@ We used tekonize techniques to split the text, and the bag of word for counting 
 Further, updating vocabluary by removing filterd words, then balancing the classes to help our network learn appropriately.
 
 
-**Implement the text classifier**
+## **Implement the text classifier**
 
 
-**Training**
+## **Training**
 
 We build the generator to loop through our data, and pass our sequence as batches.
 
-**Training and validation**
+## **Training and validation**
 
 In this section We will split our data set into traing and vaildation.\
 Then train our neural network.
 
-**Prediction**
+## **Prediction**
 
 We trained the model, and we can make a predictions, then we used this model to track the sentiments of various stocks by predicitng the comming twits
 
-**Testing**
+## **Testing**
 
 Finally e used the prediction, and we apply it to stream of twits, to obtain the stock universe score stream.
 
 
-**issues**
+## **issues**
 
 
-**Contributing**
+## **Contributing**
 
 For major changes, please open an issue. First discuss what you would like to change.
 please make sure to update tests as appropriate
 
-**Licence**
-__copyright__ = "Copyright (C) 2004 David Gabriel"
+## **Licence**
+__Copyright (C) 2004 David Gabriel_
 
 
 
