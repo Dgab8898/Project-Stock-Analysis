@@ -54,6 +54,7 @@ Finally e used the prediction, and we apply it to stream of twits, to obtain the
 
 ## **issues**
 
+NON 
 
 ## **Contributing**
 
@@ -68,3 +69,11 @@ Copyright (C) 2020 David Gabriel
 
 
 **Further reading**
+
+-  https://www.investopedia.com/terms/m/multifactor-model.asp
+- https://classroom.udacity.com/nanodegrees/nd880/PCA as a Factor Model - Coding Exercises
+- https://www.sciencedirect.com/topics/social-sciences/factor-model
+-  J.H. Stock, M.W. Watson, in Handbook of Macroeconomics, 2016
+-  Moorad Choudhry, in The Bond & Money Markets, 2001
+- Morton Glantz, Robert Kissell, in Multi-Asset Risk Modeling, 2014
+
