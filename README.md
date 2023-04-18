@@ -54,7 +54,7 @@ Finally e used the prediction, and we apply it to stream of twits, to obtain the
 
 ## **issues**
 
-NON 
+Non
 
 ## **Contributing**
 
